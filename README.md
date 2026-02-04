@@ -1,1 +1,2 @@
 # PROJECT-5
+This Restaurant Website project is a responsive web-based application designed using HTML, CSS, and basic web technologies. It focuses on creating a clean user interface, proper layout structure, and mobile-friendly design. The project demonstrates form handling, modern styling, and responsive behavior across different screen sizes, making it suitable for real-world web development practice.
